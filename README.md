@@ -1,6 +1,7 @@
 # clone repo
 git clone https://github.com/sanjivani-rajoriya/dynamic-app.git
-cd dynamic-form-builder
+
+cd dynamic-app
 
 # Install dependencies
 npm install
